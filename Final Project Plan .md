@@ -1,5 +1,5 @@
 - [ ] does not follow markdown template we posted in piazza
-- [ ] does not follwo tios we posted in piazza
+- [ ] does not follow tips we posted in piazza
 - [ ] decalring that a report will include 3000-4000 words is not needed.
 - [ ] does not use proper markdown swith sections
 - [ ] section headers have no :
