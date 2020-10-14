@@ -1,3 +1,11 @@
+- [ ] does not follow markdown template we posted in piazza
+- [ ] does not follwo tios we posted in piazza
+- [ ] decalring that a report will include 3000-4000 words is not needed.
+- [ ] does not use proper markdown swith sections
+- [ ] section headers have no :
+- [ ] you need to convert this from "I" to a formal report.
+
+
 Raymond Adams
 
 09 October 2020
@@ -7,10 +15,6 @@ Geoffrey Fox
 Final Project Plan
 
 Using Spotify Data To Determine If Popular Modern-day Songs Lack Uniqueness Compared To Popular Songs Before The 21st Century
-
-**Team** :
-
-For this final project I will be working alone.
 
 **Topic** :
 
