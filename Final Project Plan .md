@@ -1,9 +1,9 @@
-- [ ] does not follow markdown template we posted in piazza
-- [ ] does not follow tips we posted in piazza
+- [ ] please follow markdown template we posted in piazza
+- [ ] please follow tips we posted in piazza
 - [ ] decalring that a report will include 3000-4000 words is not needed.
-- [ ] does not use proper markdown swith sections
-- [ ] section headers have no :
-- [ ] you need to convert this from "I" to a formal report.
+- [ ] please use proper markdown swith sections
+- [ ] please do not use  : in section titles
+- [ ] please convert this from "I" to a formal report.
 
 
 Raymond Adams
