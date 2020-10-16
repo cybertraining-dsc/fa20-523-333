@@ -1,3 +1,5 @@
+# Not a valid md file, all md files mus have ad least on section heading
+
 - [ ] please follow markdown template we posted in piazza
 - [ ] please follow tips we posted in piazza
 - [ ] decalring that a report will include 3000-4000 words is not needed.
