@@ -4,12 +4,9 @@ Raymond Adams, [fa20-523-333](https://github.com/cybertraining-dsc/fa20-523-333/
 
 - [ ] please follow our template
 - [ ] please remove first person
+- [ ] do not use I
 
-## Team
-
-For this final project I will be working alone.
-
-## Topic
+## Introduction
 
 I will be looking at Spotify data, a music streaming service, to answer my research question, "Do popular modern-day songs lack uniqueness compared to popular songs before the year 2000?" Music has always been a way to express oneself. Before the new era of music began most songs seemed to have a unique sound and feel that brought the listener back for more. However, nowadays it seems that most songs that become popular have similar characteristics. The goal of this research is to study whether popular modern-day songs lack the uniqueness that songs had before January 1, 2001.
 
