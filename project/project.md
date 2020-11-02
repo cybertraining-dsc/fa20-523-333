@@ -4,6 +4,7 @@
 - [ ] please remove first person
 - [ ] do not use I
 - [ ] what is progress?
+- [ ] Refernces missing
 
 Raymond Adams, [fa20-523-333](https://github.com/cybertraining-dsc/fa20-523-333/), [Edit](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/project/project.md)
 
