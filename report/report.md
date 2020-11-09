@@ -3,7 +3,7 @@
 # Introduction
 Music is one of the most influential elements in the arts. It has a great impact on the way humans act and feel. Research, done by Nina Avramova, has shown that different genres of music bring about different emotions and feelings through the listener. Nonetheless, humans also have a major impact on music itself. Music and humans are mutually dependent therefore when one evolves, so does the other. 
 
-This journal intends to progress the current understanding of if, how, and why music has changed since the 21<sup>st</sup> century. It also aims to determine if this change in music has led to a lack of uniqueness amongst the common features of a song compared to music before the 21<sup>st</sup> century. Thus, the null and alternative hypothesis is: H<sub>0</sub>: Music after 2001 has greater or equal to the same **variation** as music before 2001 vs H<sub>a</sub>: Music after 2001 has less **variation** than music prior to 2001. 
+This journal intends to progress the current understanding of if, how, and why music has changed since the 21<sup>st</sup> century. It also aims to determine if this change in music has led to a lack of uniqueness amongst the common features of a song compared to music before the 21<sup>st</sup> century.  
 # Data
 The data is located on Kaggle and was collected by a data scientist named Yamac Eren Ay. He collected more than 160,000 songs from Spotify that ranged from 1921 to 2020. Some of the features that this data set includes and will be used to conduct an analysis are: danceability, energy, acousticness, instrumentalness, valence, tempo, key, and loudness.  
 
@@ -16,13 +16,55 @@ Data analysis was used to answer this papers research question. The data set was
 When Yamac Ay collected the data he separated it into five comma-separated values (csv) files. The first file, titled data.csv, contained all the information that was needed to conduct a data analysis. Although, this file contained the feature "year" that was required to analyze the data based on the period of time, it still needed to be manipulated to distinguish what years were attributed to before and after the 21<sup>st</sup>century. A python script was built to create a new column titled "years_split" that sorted all rows into qualitative binary values. These values were defined as "before_21st_century" and "after_21st_century". Rows where the tracks feature "year" were between 0 and 2000 were assigned to "before_21st_century" and tracks where the feature "year" were between 2001 and 2020 were assigned to "after_21st_century". It is important to note that over 76% of the rows were attributed to "before_21st_century". Therefore, the majority of tracks collected in this dataset were released before 2001. 
 
 # Results
-The features that were analyzed were quantitative values. Thus, it was decided that histograms were the best plots for examining and comparing the data. The first feature that was analyzed was "danceability".  ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/danceability_histogram_before_and_after_21stcentury.png)   
+The features that were analyzed were quantitative values. Thus, it was decided that histograms were the best plots for examining and comparing the data. The first feature that was analyzed is "danceability".  ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/danceability_histogram_before_and_after_21stcentury.png)   
 
-The histogram assigned to "before_21st_century" resembles a normal distribution. The **mean** of the histogram is 0.52 while the **mode** is 0.57. The **variance** of the data is 0.02986. The histogram assigned to "after_21st_century" closely resembles a normal distribution. The **mean** is 0.59 and the **mode** is 0.61. The **variance** of the data is 0.02997. Using statistics to compare these two sample populations we receive a two-tailed P value is less than 0.0001. We set our alpha = 0.01. Therefore, the P value implies that "we have reasonable grounds to support the alternate hypothesis and reject the null hypothesis [6]." 
+The histogram assigned to "before_21st_century" resembles a normal distribution. The **mean** of the histogram is 0.52 while the **mode** is 0.57. The **variance** of the data is 0.02986. The histogram assigned to "after_21st_century" closely resembles a normal distribution. The **mean** is 0.59 and the **mode** is 0.61. The **variance** of the data is 0.02997. The bulk of the data before the 21<sup>st</sup> century lies between 0.2 and 0.8. However, when looking at the data after the 21<sup>st</sup> century the majority of it lie between 0.4 and 0.9. This implies that songs have becomes more danceable but the variation of values is practically the same. 
 
-The second feature that was analyzed was "energy". (insert plot) The histogram assigned to "before_21st_century" does not resemble a normal distribution. The **mean** of the histogram is 0.44 while the **mode** is 0.25. The **variance** of the data is 0.06819. The histogram assigned to "after_21st_century" also does not resemble a normal distribution. The **mean** is  0.65 and the **mode** is 0.73. The **variance** of the data is 0.05030. The two-tailed P value is less than 0.0001. We set our alpha = 0.01. The P value shows that the difference is extremely statistically significant. Thus, we reject the null hypothesis. It is also important to not that the modes have a massive difference of 0.48. This means that music has become much more energetic after the 21<sup>st</sup> century. 
+The second feature that was analyzed is "energy". ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/energy_histogram_before_and_after_21stcentury.png)
 
-The third feature that was analyze was "acousticness". (insert plot) Neither histograms, "before_21st_century" & "after_21st_century", resemble a normal distribution. The **mean** of the histogram is 0.57 while the **mode** is 0.995. The **variance** of the data is 0.13687. The histogram assigned to "after_21st_century" also does not resemble a normal distribution. The **mean** is  0.26 and the **mode** is 0.114. The **variance** of the data is 0.08445.
+The histogram assigned to "before_21st_century" does not resemble a normal distribution. The **mean** of the histogram is 0.44 while the **mode** is 0.25. The **variance** of the data is 0.06819. The histogram assigned to "after_21st_century" also does not resemble a normal distribution. The **mean** is 0.65 and the **mode** is 0.73. The **variance** of the data is 0.05030. The data before the 21<sup>st</sup> century is skewed right while the data after the 21<sup>st</sup> century is skewed left. This indicates that tracks have become much more energetic since the 21<sup>st</sup> century. Songs before 2001 on average have an energy level of 0.44 but there are still a good amount of song with high energy levels. Where as, songs after 2001 on average have an energy level of 0.65 but there are very few songs with low energy levels. 
+
+The third feature that was analyze was "acousticness". ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/acousticness_histogram_before_and_after_21stcentury.png)
+
+When analyzing the histogram assigned to "before_21st_century" the **mean** of the histogram is 0.57 while the **mode** is 0.995. The **variance** of the data is 0.13687. The histogram assigned to "after_21st_century" also does not resemble a normal distribution. The **mean** is  0.26 and the **mode** is 0.114. The **variance** of the data is 0.08445 . The graph shows that music made before the 21<sup>st</sup> century varied from non-acoustic to acoustic. However, when analyzing music after the 21<sup>st</sup> century the graph shows that most music is created using non-acoustic instruments. It is assumed that this change in outlet of sounds is due to music production transitioning from acoustic to analog to now digital. However, more in depth research would need to be completed to confirm this assumption. 
+
+
+
+The fourth histogram to be anaylzed was "instrumentalness". ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/instrumentalness_histogram_before_and_after_21stcentury.png)
+
+When analyzing the histogram assigned to "before_21st_century" the **mean** of the histogram is 0.19 while the **mode** is 0.0. The **variance** of the data is 0.10699. The histogram assigned to "after_21st_century" **mean** is  0.07 and the **mode** is 0.0. The **variance** of the data is 0.04786 . By analyzing the graph it appears that the instrumentalness for before and after the 21<sup>st</sup> century are relatively similar. Both histograms are skewed right  but the histogram attributed to after the 21<sup>st</sup> century has much less songs that are instrumental compared to song before the 21<sup>st</sup> century. 
+
+The fifth histogram that was analyzed is "valence" 
+
+![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/valence_histogram_before_and_after_21stcentury.png)
+
+When analyzing the histogram assigned to "before_21st_century" the **mean** of the histogram is 0.54 while the **mode** is 0.961. The **variance** of the data is 0.07035. The histogram assigned to "after_21st_century" **mean** is  0.49 and the **mode** is 0.961. The **variance** of the data is 0.06207. By analyzing the graph we can see that the valence before and after the 21<sup>st</sup> century has remained fairly the same in terms of shape. However, the average value of valence after the 21<sup>st</sup> century decreased by 0.05. Thus, songs have become less positive but there are still a good amount of positive songs being created.
+
+The sixth histogram that was analyzed is "tempo". 
+
+![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/tempo_histogram_before_and_after_21stcentury.png)
+
+When analyzing the histogram assigned to "before_21st_century" the **mean** of the histogram is 115.66. The **variance** of the data is 933.57150. The histogram assigned to "after_21st_century"  **mean** is 121.19. The **variance** of the data is 955.44287. This indicates that tracks after the 21<sup>st</sup> century have increased tempo by a little over 6 BPM. 
+
+The seventh histogram that was analyzed is "key". 
+
+![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/key_histogram_before_and_after_21stcentury.png)
+
+When analyzing the histogram assigned to "before_21st_century" the **mean** of the histogram is 5.19 The **variance** of the data is 12.22468. The histogram assigned to "after_21st_century"  **mean** is 5.24. The **variance** of the data is 12.79017. The key of song have mostly stayed the same hoever, there are less songs after the 21<sup>st</sup> century being created in C, C#, and D compared to songs before the 21<sup>st</sup> century. 
+
+
+
+The eighth histogram that was analyzed is "loudness". 
+
+![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/loudness_histogram_before_and_after_21stcentury.png)
+
+
+
+When analyzing the histogram assigned to "before_21st_century" the **mean** of the histogram is -12.60 while the **mode** is -11.82. The **variance** of the data is 29.17625. The histogram assigned to "after_21st_century" **mean** is  -7.32 and the **mode** is -4.80. The **variance** of the data is 20.35049. The shapes of both histograms are the same, however the histogram attributed to after the  21<sup>st</sup> century shifted to the right by 5.28. This is  an important statstic because music has become much louder and our ears are not meant to be exposed to this amount of loudness. 
+
+# Conclusion 
+
+
 
 # References
 [1] Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
