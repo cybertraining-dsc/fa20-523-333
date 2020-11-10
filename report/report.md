@@ -1,5 +1,7 @@
 ## Does Modern Day Music Lack Uniqueness Compared to Music before the 21<sup>st</sup> Century
 
+​																									Raymond Adams																							 Data Science Department																						Indiana University - Bloomington																								   rayadams@iu.edu							
+
 # Introduction
 
 Music is one of the most influential elements in the arts. It has a great impact on the way humans act and feel. Research, done by Nina Avramova, has shown that different genres of music bring about different emotions and feelings through the listener. Nonetheless, humans also have a major impact on the music itself. Music and humans are mutually dependent, therefore when one evolves, so does the other. 
