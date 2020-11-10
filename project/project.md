@@ -1,5 +1,7 @@
 # Using Spotify Data To Determine If Popular Modern-day Songs Lack Uniqueness Compared To Popular Songs Before The 21st Century
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
+
 - [ ] please follow our template
 - [ ] please remove first person
 - [ ] do not use I
