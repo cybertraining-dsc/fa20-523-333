@@ -22,35 +22,35 @@ The features that were analyzed were quantitative values. Thus, it was decided t
 
 The histogram assigned to "before_21st_century" resembles a normal distribution. The **mean** of the histogram is 0.52 while the **mode** is 0.57. The **variance** of the data is 0.02986. The histogram assigned to "after_21st_century" closely resembles a normal distribution. The **mean** is 0.59 and the **mode** is 0.61. The **variance** of the data is 0.02997. The bulk of the data before the 21<sup>st</sup> century lies between 0.2 and 0.8. However, when looking at the data after the 21<sup>st</sup> century the majority of it lies between 0.4 and 0.9. This implies that songs have become more danceable but the variation of less danceable to danceable is practically the same. 
 
-The second feature that was analyzed is "energy". ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/energy_histogram_before_and_after_21stcentury.png)
+The second feature that was analyzed is "energy". ![energy](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/energy_histogram_before_and_after_21stcentury.png)
 
 The histogram assigned to "before_21st_century" does not resemble a normal distribution. The **mean** of the histogram is 0.44 while the **mode** is 0.25. The **variance** of the data is 0.06819. The histogram assigned to "after_21st_century" also does not resemble a normal distribution. The **mean** is 0.65 and the **mode** is 0.73. The **variance** of the data is 0.05030. The data before the 21<sup>st</sup> century is skewed right while the data after the 21<sup>st</sup> century is skewed left. This indicates that tracks have become much more energetic since the 21<sup>st</sup> century. Songs before 2001 on average have an energy level of 0.44 but there are still many songs with high energy levels. Where as, songs after 2001 on average have an energy level of 0.65 but there are very few songs with low energy levels. 
 
-The third feature that was analyzed was "acousticness". ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/acousticness_histogram_before_and_after_21stcentury.png)
+The third feature that was analyzed was "acousticness". ![acousticness](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/acousticness_histogram_before_and_after_21stcentury.png)
 
 The  **mean** of the histogram assigned to "before_21st_century" is 0.57 while the **mode** is 0.995. The **variance** of the data is 0.13687. The histogram assigned to "after_21st_century" has a **mean** of 0.26 and **mode** of 0.114. The **variance** of the data is 0.08445 . The graph shows that music made before the 21<sup>st</sup> century varied from non-acoustic to acoustic. However, when analyzing music after the 21<sup>st</sup> century the graph shows that most music is created using non-acoustic instruments. It is assumed that this change in outlet of sounds is due to music production transitioning from acoustic to analog to now digital. However, more in depth research would need to be completed to confirm this assumption. 
 
 
 
-The fourth histogram to be anaylzed was "instrumentalness". ![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/instrumentalness_histogram_before_and_after_21stcentury.png)
+The fourth histogram to be anaylzed was "instrumentalness". ![instrumentalness](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/instrumentalness_histogram_before_and_after_21stcentury.png)
 
 The **mean** of the histogram assigned to "before_21st_century" is 0.19 while the **mode** is 0.0. The **variance** of the data is 0.10699. The histogram assigned to "after_21st_century" has a **mean** of 0.07 and **mode** of 0.0. The **variance** of the data is 0.04786 . By analyzing the graph it appears that the instrumentalness for before and after the 21<sup>st</sup> century are relatively similar. Both histograms are skewed right but the histogram attributed to after the 21<sup>st</sup> century has much less songs that are instrumental compared to songs before the 21<sup>st</sup> century. The variation of non-instrumental to instrumental tracks after the 21<sup>st</sup> century is all far less compared to tracks before the  21<sup>st</sup> century. 
 
 The fifth histogram that was analyzed is "valence" 
 
-![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/valence_histogram_before_and_after_21stcentury.png)
+![valence](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/valence_histogram_before_and_after_21stcentury.png)
 
 The **mean** of the histogram assigned to "before_21st_century" is 0.54 while the **mode** is 0.961. The **variance** of the data is 0.07035. The histogram assigned to "after_21st_century" has a **mean** of 0.49 and **mode** of 0.961. The **variance** of the data is 0.06207. By analyzing the graph we can see that the valence before and after the 21<sup>st</sup> century has remained fairly the same in terms of shape. However, the average value of valence after the 21<sup>st</sup> century decreased by 0.05. Thus, songs have become less positive but there are still a good amount of positive songs being created.
 
 The sixth histogram that was analyzed is "tempo". 
 
-![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/tempo_histogram_before_and_after_21stcentury.png)
+![tempo](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/tempo_histogram_before_and_after_21stcentury.png)
 
 The **mean** of the histogram attributed to "before_21st_century"is 115.66. The **variance** of the data is 933.57150. The histogram assigned to "after_21st_century" has a **mean** of 121.19. The **variance** of the data is 955.44287. This indicates that tracks after the 21<sup>st</sup> century have increased tempo by a little over 6 BPM. Tracks after the 21<sup>st</sup> century also have more variation than tracks before the 21<sup>st</sup> century. 
 
 The seventh histogram that was analyzed is "key". 
 
-![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/key_histogram_before_and_after_21stcentury.png)
+![key](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/key_histogram_before_and_after_21stcentury.png)
 
 The **mean** of the histogram assigned to "before_21st_century" is 5.19 The **variance** of the data is 12.22468. The histogram assigned to "after_21st_century" has a **mean** of 5.24. The **variance** of the data is 12.79017. This information implies that the key of songs have mostly stayed the same hoever, there are less songs after the 21<sup>st</sup> century being created in C, C#, and D compared to songs before the 21<sup>st</sup> century. The key of songs after 2001 are also more spread out compared to songs before 2001. 
 
@@ -58,7 +58,7 @@ The **mean** of the histogram assigned to "before_21st_century" is 5.19 The **va
 
 The eighth histogram that was analyzed is "loudness". 
 
-![](/Users/rayadams/Documents/GitHub/fa20-523-333/images/loudness_histogram_before_and_after_21stcentury.png)
+![loudness](https://github.com/cybertraining-dsc/fa20-523-333/blob/master/images/loudness_histogram_before_and_after_21stcentury.png)
 
 
 
