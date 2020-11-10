@@ -74,7 +74,7 @@ The factor for determining whether music lacks uniqueness in this paper will be 
 
 This lack of uniqueness did not start after the 21<sup>st</sup> century. It started during the Enlightenment period. During this period of time, classical music was the most popular genre of music. Before this era, Baroque music was extremely popular. Artists such as Johann Sebastian Bach created complex compositions that were played for the elite. This style of music "was filled with complex melodies and exaggerated ornamentation, music of the Enlightenment period was technically simpler." [3] Instead of focusing on these complexities the new music focused on enjoyment, pleasure, and being memorable. People now wanted to be able to hum and play songs themselves. This desired feature has caused music to constantly become simpler. Thus, reducing songs variances amongst features. 
 
-Some further steps that could be taken in this research is predicting what these features will look like in the future. Machine learning could be used to make this prediction. This would give music enthusiasts and professionals a greater understanding of where music is headed and how to adapt. 
+A further step that could be taken in this research is predicting what these features will look like in the future. Machine learning could be used to make this prediction. This would give music enthusiasts and professionals a greater understanding of where music is headed and how to adapt. 
 
 # References
 [1] Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
