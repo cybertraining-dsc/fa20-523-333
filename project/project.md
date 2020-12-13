@@ -4,6 +4,7 @@
 - [ ] images wrong
 - [ ] we use main not master
 - [ ] template wrong
+- [ ] refernces not as used in template
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
