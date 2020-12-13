@@ -3,8 +3,14 @@
 - [ ] headlines wrong
 - [ ] images wrong
 - [ ] we use main not master
-- [ ] template wrong
 - [ ] refernces not as used in template
+- [ ] please use our template
+- [ ] please inform gregor if this is your final report and if you swiotched from project to report only
+- [ ] markdown requieres you to do the figure on a new line
+- [ ] reprots require figures to be numbered and referede to with umbers in the text 
+- [ ] headlines must be having empty line before and after
+- [ ] a report with no programming is in reprot/report.md a project with programming is in project/project.md where you have your project.
+
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
