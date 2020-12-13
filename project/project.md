@@ -1,5 +1,8 @@
 ## Does Modern Day Music Lack Uniqueness Compared to Music before the 21<sup>st</sup> Century
 
+- [ ] headlines wrong
+- [ ] images wrong
+- [ ] we use main not master
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
