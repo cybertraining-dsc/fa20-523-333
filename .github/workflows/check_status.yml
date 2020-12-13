@@ -24,6 +24,4 @@ jobs:
       run: wget https://raw.githubusercontent.com/cybertraining-dsc/cybertraining-dsc.github.io/main/bin/status-check.py      
     - name: Status Check
       run: python3 status-check.py project/project.md
-      # run: python markdown-check.py paper/_index.md
-      # run: python3 markdown-check.py report/report.md
-      
+
