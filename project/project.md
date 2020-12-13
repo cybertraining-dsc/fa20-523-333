@@ -10,6 +10,8 @@
 - [ ] reprots require figures to be numbered and referede to with umbers in the text 
 - [ ] headlines must be having empty line before and after
 - [ ] a report with no programming is in reprot/report.md a project with programming is in project/project.md where you have your project.
+- [ ] PDF is not accepted format
+- [ ] we can not read white on black, considder people that have accessibility issues
 
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
