@@ -7,7 +7,7 @@
 - [ ] please use our template
 - [ ] please inform gregor if this is your final report and if you swiotched from project to report only
 - [ ] markdown requieres you to do the figure on a new line
-- [ ] reprots require figures to be numbered and referede to with umbers in the text 
+- [ ] reprots require figures to be numbered and refered to with umbers in the text 
 - [ ] headlines must be having empty line before and after
 - [ ] a report with no programming is in reprot/report.md a project with programming is in project/project.md where you have your project.
 - [ ] PDF is not accepted format
