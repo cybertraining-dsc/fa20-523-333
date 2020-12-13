@@ -1,5 +1,13 @@
 ## Does Modern Day Music Lack Uniqueness Compared to Music before the 21<sup>st</sup> Century
 
+- [ ] please use our template
+- [ ] please inform gregor if this is your final report and if you swiotched from project to report only
+- [ ] markdown requieres you to do the figure on a new line
+- [ ] reprots require figures to be numbered and referede to with umbers in the text 
+- [ ] headlines must be having empty line before and after
+- [ ] a report with no programming is in reprot/report.md a project with programming is in project/project.md where you have your project.
+
+
 # Introduction
 
 Music is one of the most influential elements in the arts. It has a great impact on the way humans act and feel. Research, done by Nina Avramova, has shown that different genres of music bring about different emotions and feelings through the listener. Nonetheless, humans also have a major impact on the music itself. Music and humans are mutually dependent, therefore when one evolves, so does the other. 
