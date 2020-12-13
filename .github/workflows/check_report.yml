@@ -23,6 +23,6 @@ jobs:
     - name: wget markdown-check.py
       run: wget https://raw.githubusercontent.com/cybertraining-dsc/cybertraining-dsc.github.io/main/bin/markdown-check.py      
     - name: Run Check
-      run: python3 markdown-check.py report/report.md
-      # run: python3 markdown-check.py project/project.md
+      # run: python3 markdown-check.py report/report.md
+      run: python3 markdown-check.py project/project.md
       # run: python markdown-check.py paper/_index.md
