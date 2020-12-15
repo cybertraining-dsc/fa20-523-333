@@ -3,7 +3,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
-Status: in progress, Type: Project
+Status: complete, Type: Project
 * Raymond Adams, fa20-523-333
 
 {{% pageinfo %}}
