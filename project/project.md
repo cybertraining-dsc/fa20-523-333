@@ -47,9 +47,7 @@ When Yamac Ay collected the data he separated it into five comma-separated value
 ## 4. Results
 
 The features that were analyzed were quantitative values. Thus, it was decided that histograms were the best plots for examining and comparing the data. The first feature that was analyzed is "danceability". The visualization for danceability is seen in **Figure 2**.
-
 ![danceability](https://github.com/cybertraining-dsc/fa20-523-333/raw/main/project/images/danceability_histogram_before_and_after_21stcentury.png)
-
 **Figure 2:** Danceability shows how danceable a song is
 
 The histogram assigned to "before_21st_century" resembles a normal distribution. The **mean** of the histogram is 0.52 while the **mode** is 0.57. The **variance** of the data is 0.02986. The histogram assigned to "after_21st_century" closely resembles a normal distribution. The **mean** is 0.59 and the **mode** is 0.61. The **variance** of the data is 0.02997. The bulk of the data before the 21<sup>st</sup> century lies between 0.2 and 0.8. However, when looking at the data after the 21<sup>st</sup> century the majority of it lies between 0.4 and 0.9. This implies that songs have become more danceable but the variation of less danceable to danceable is practically the same. 
@@ -132,7 +130,6 @@ All work for this assignment was performed by the individual listed below
 1. Raymond Adams
 
 ## References
-
 [^1]: Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
 
 [^2] Savage, P., 2019. Cultural evolution of music. Palgrave Communications, 5(1).
