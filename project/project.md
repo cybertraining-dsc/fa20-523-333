@@ -130,6 +130,7 @@ All work for this assignment was performed by the individual listed below
 1. Raymond Adams
 
 ## References
+
 [^1]: Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
 
 [^2] Savage, P., 2019. Cultural evolution of music. Palgrave Communications, 5(1).
