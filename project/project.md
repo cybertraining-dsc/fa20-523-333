@@ -128,8 +128,7 @@ Initially this project was supposed to be conducted on Hip-Hop music. However, t
 
 ### 6. Work Breakdown
 
-All work for this assignment was performed by the individual listed below 
-
+All work for this assignment was performed by the individual listed below
 1. Raymond Adams
   * Data analysis
   * Report
