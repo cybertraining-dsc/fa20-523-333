@@ -124,12 +124,13 @@ A further step that could be taken in this research is predicting what these fea
 
 Initially this project was supposed to be conducted on Hip-Hop music. However, the way the data was collected and stored did not allow for this analysis to be done. In the future a more in depth analysis could be conducted on a specific genre. 
 
-### 6 Work Breakdown
+### 6. Work Breakdown
 
 All work for this assignment was performed by the individual listed below 
+
 1. Raymond Adams
 
-## References
+## 7. References
 
 [^1]: Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
 
