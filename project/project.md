@@ -137,12 +137,12 @@ All work for this assignment was performed by the individual listed below
 
 [^1]: Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
 
-[^2] Savage, P., 2019. Cultural evolution of music. Palgrave Communications, 5(1).
+[^2]: Savage, P., 2019. Cultural evolution of music. Palgrave Communications, 5(1).
 
-[^3] Muscato, C. and Clayton, J., 2020. _Music During The Enlightenment Period_. [online] Study.com. Available at: <https://study.com/academy/lesson/music-during-the-enlightenment-period.html> [Accessed 5 November 2020].
+[^3]: Muscato, C. and Clayton, J., 2020. _Music During The Enlightenment Period_. [online] Study.com. Available at: <https://study.com/academy/lesson/music-during-the-enlightenment-period.html> [Accessed 5 November 2020].
 
-[^4] Percino, G., Klimek, P. and Thurner, S., 2014. Instrumentational Complexity of Music Genres and Why Simplicity Sells. _PLoS ONE_, 9(12), p.e115255.
+[^4]: Percino, G., Klimek, P. and Thurner, S., 2014. Instrumentational Complexity of Music Genres and Why Simplicity Sells. _PLoS ONE_, 9(12), p.e115255.
 
-[^5] Developer.spotify.com. 2020. _Get Audio Features For A Track | Spotify For Developers_. [online] Available at: <https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/> [Accessed 6 November 2020].
+[^5]: Developer.spotify.com. 2020. _Get Audio Features For A Track | Spotify For Developers_. [online] Available at: <https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/> [Accessed 6 November 2020].
 
-[^6] dzone.com. 2020. _What Is P-Value (In Layman Terms)? - Dzone Big Data_. [online] Available at: <https://dzone.com/articles/what-is-p-value-in-layman-terms> [Accessed 8 November 2020].
+[^6]: dzone.com. 2020. _What Is P-Value (In Layman Terms)? - Dzone Big Data_. [online] Available at: <https://dzone.com/articles/what-is-p-value-in-layman-terms> [Accessed 8 November 2020].
