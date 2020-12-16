@@ -46,9 +46,9 @@ When Yamac Ay collected the data he separated it into five comma-separated value
 
 ## 4. Results
 
-The features that were analyzed were quantitative values. Thus, it was decided that histograms were the best plots for examining and comparing the data. The first feature that was analyzed is "danceability". The visualization for danceability is seen in **Figure 2:**.  
+The features that were analyzed were quantitative values. Thus, it was decided that histograms were the best plots for examining and comparing the data. The first feature that was analyzed is "danceability". The visualization for danceability is seen in **Figure 2:**.
 
-![danceability](https://github.com/cybertraining-dsc/fa20-523-333/raw/main/project/images/danceability_histogram_before_and_after_21stcentury.png)  
+![danceability](https://github.com/cybertraining-dsc/fa20-523-333/raw/main/project/images/danceability_histogram_before_and_after_21stcentury.png)
 
 **Figure 2:** Danceability shows how danceable a song is
 
@@ -130,7 +130,7 @@ Initially this project was supposed to be conducted on Hip-Hop music. However, t
 
 All work for this assignment was performed by the individual listed below 
 1. Raymond Adams
-  
+
 ## References
 
 [^1]: Nina Avramova, C., 2020. How Music Can Change The Way You Feel And Act. [online] CNN. Available at: <https://www.cnn.com/2019/02/08/health/music-brain-behavior-intl/index.html> [Accessed 5 November 2020].
