@@ -1,5 +1,14 @@
-
-# Does Modern Day Music Lack Uniqueness Compared to Music before the 21<sup>st</sup> Century
+---
+date: 2021-03-15
+title: Does Modern Day Music Lack Uniqueness Compared to Music before the 21st Century
+linkTitle: Music uniquness
+tags: ["project", "ai", "lifestyle"]
+description: his project looked at 99 years of spotify music data and determined that all features of most tracks have changed in different ways. Because uniqueness can be related to variation the variation of different features were used to determine if tracks did lack uniqueness. Through data analysis it was concluded that they did.
+author: Raymond Adams
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-333/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-333/actions)
