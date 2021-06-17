@@ -20,6 +20,7 @@ Status: final, Type: Project
 
 {{% pageinfo %}}
 
+
 ## Abstract
 
 One of the most influential aspects of human culture is music. It has a way of changing as humans evolve themselves. Music has changed drastically over the last 100 years. Before the 21<sup>st</sup> century most people seemed to welcome the change. However, in the 2000's people began stating that music seemed to be changing for the worse. Music, usually adults perspectives, has began lacking uniqueness. These statements come from interviews, speaking with family and friends, tv shows, and movies. This project looked at 99 years of spotify music data and determined that all features of most tracks have changed in different ways. Because uniqueness can be related to variation the variation of different features were used to determine if tracks did lack uniqueness. Through data analysis it was concluded that they did.
