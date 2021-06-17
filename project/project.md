@@ -5,6 +5,7 @@ linkTitle: Music uniquness
 tags: ["project", "ai", "lifestyle"]
 description: his project looked at 99 years of spotify music data and determined that all features of most tracks have changed in different ways. Because uniqueness can be related to variation the variation of different features were used to determine if tracks did lack uniqueness. Through data analysis it was concluded that they did.
 author: Raymond Adams
+github_url: https://github.com/cybertraining-dsc/fa20-523-333/edit/main/project/project.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
